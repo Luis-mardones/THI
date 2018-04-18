@@ -1,0 +1,9 @@
+Descargar esta rama: development/first-module
+
+Crear nueva rama: development/first-module/module-one-tasks/mi-nombre
+
+development/new-client-tasks/cancel-button
+
+development/new-client-tasks/agree-button
+
+development/new-client-tasks/loan-validation
